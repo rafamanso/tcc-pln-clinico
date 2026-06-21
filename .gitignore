@@ -1,0 +1,10 @@
+venv/ 
+data/ 
+*.csv 
+*.dbc 
+*.parquet 
+__pycache__/ 
+.ipynb_checkpoints/ 
+.env 
+*.pt 
+*.bin 
